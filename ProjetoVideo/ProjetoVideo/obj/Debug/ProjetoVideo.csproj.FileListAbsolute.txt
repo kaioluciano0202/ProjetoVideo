@@ -1,0 +1,15 @@
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\bin\Debug\ProjetoVideo.exe.config
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\bin\Debug\ProjetoVideo.exe
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\bin\Debug\ProjetoVideo.pdb
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\bin\Debug\Interop.WMPLib.dll
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\ProjetoVideo.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\Interop.WMPLib.dll
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\ProjetoVideo.csproj.ResolveComReference.cache
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\ProjetoVideo.Form1.resources
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\ProjetoVideo.Properties.Resources.resources
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\ProjetoVideo.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\ProjetoVideo.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\ProjetoVideo.exe
+C:\Users\DB\Desktop\ProjetoVideo\ProjetoVideo\ProjetoVideo\obj\Debug\ProjetoVideo.pdb
